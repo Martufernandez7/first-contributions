@@ -1,0 +1,73 @@
+.título {
+
+    color:rgb(66, 216, 196);
+    font-size: 20px;
+    padding-left: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color:rgb(149, 76, 223);
+}
+
+.nombre {
+
+    color:rgb(117, 24, 173);
+    font-size: 35px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+    border-style:double;
+  
+  
+  }
+  
+  .subtítulo {
+  
+    font-size: 25px;
+    padding:5px;
+  
+  }
+  
+  a {
+  
+    color: black;
+    text-decoration: none;
+    
+  
+  }
+  
+  p {
+  
+    padding: 15px;
+    padding-top: 0px;
+    
+  
+  }
+  
+  
+  #quiénsoy,#formación {
+  
+    background: rgb(255, 255, 255);
+    padding: none;
+  }
+  
+  
+  body {
+  
+    font-family: 'Taviraj', serif;
+    background:rgb(140, 117, 150);
+  }
+  
+  #nav {
+    border: dotted;
+    width: 100%;
+    margin: 25px auto;
+    text-align: left;
+   
+  }
+  
+  #contenido {
+  
+    width: 100%;
+   ;
+  }
